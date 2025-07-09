@@ -1,2 +1,3 @@
 # new-project101
-Sample
+This is my first project
+Author-ME
